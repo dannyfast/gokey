@@ -1,3 +1,5 @@
+github.com/cloudflare/gokey v0.1.1 h1:E/9A5YosSbykygNbYhDB6F5Q+UdHaHEOFKKmYAHCZaQ=
+github.com/cloudflare/gokey v0.1.1/go.mod h1:IImo6Y1N4DFz7+bFWgOkUGXS/2xrdcGIrCCD9M7Dw54=
 golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d h1:sK3txAijHtOK88l68nt020reeT1ZdKLIYetKl95FzVY=
 golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
 golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2/go.mod h1:9nx3DQGgdP8bBQD5qxJ1jj9UTztislL4KSBs9R2vV5Y=

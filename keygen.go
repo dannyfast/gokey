@@ -9,7 +9,7 @@ import (
 	"strings"
 	"unicode"
 
-	deterministicRsaKeygen "github.com/cloudflare/gokey/rsa"
+	deterministicRsaKeygen "github.com/dannyfast/gokey/rsa"
 	"golang.org/x/crypto/ed25519"
 )
 
